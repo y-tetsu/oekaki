@@ -27,7 +27,7 @@ $ py -3.7 -m pip uninstall oekaki
 ```
 
 ## 実行方法
-下記を実行して**oekaki**を実行してください。
+コマンドプロンプトで下記を実行すると**oekaki**が起動します。
 ```
 $ start_oekaki
 ```
