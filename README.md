@@ -21,7 +21,7 @@ $ py -3.7 -m pip install git+https://github.com/y-tetsu/oekaki
 ```
 
 ## アンインストール方法
-下記を実行して**oekaki**をアンインストールしてください。
+**oekaki**をアンインストールする場合は下記を実行してください。
 ```
 $ py -3.7 -m pip uninstall oekaki
 ```
