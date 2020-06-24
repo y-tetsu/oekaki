@@ -38,5 +38,9 @@ class Oekaki(tk.Frame):
         self.master.mainloop()
 
 
-if __name__ == '__main__':
+def start_oekaki():
     Oekaki().start()
+
+
+if __name__ == '__main__':
+    start_oekaki()
