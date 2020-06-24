@@ -20,14 +20,14 @@ tkinterを使った単純なキャンバスアプリ<br>
 $ py -3.7 -m pip install git+https://github.com/y-tetsu/oekaki
 ```
 
-## アンインストール方法
-**oekaki**をアンインストールする場合は下記を実行してください。
-```
-$ py -3.7 -m pip uninstall oekaki
-```
-
 ## 実行方法
 コマンドプロンプトで下記を実行すると**oekaki**が起動します。
 ```
 $ start_oekaki
+```
+
+## アンインストール方法
+**oekaki**をアンインストールする場合は下記を実行してください。
+```
+$ py -3.7 -m pip uninstall oekaki
 ```
